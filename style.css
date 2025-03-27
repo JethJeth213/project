@@ -15,8 +15,8 @@ body {
     position: relative;
     text-align: center;
     padding-top: 5%;
-    background: rgba(0, 0, 0, 0.5); /* Optional for better contrast */
-    min-height: 100vh; /* Fix scrollbar issue */
+    background: rgba(0, 0, 0, 0.5);
+    min-height: 100vh;
 }
 
 
@@ -30,7 +30,7 @@ p {
     margin-bottom: 20px;
 }
 
-/* Navigation button styles */
+/* button styles */
 nav a {
     display: inline-block;
     margin: 10px;
